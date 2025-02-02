@@ -1,0 +1,2 @@
+Link da function funcionando
+https://fnhcursoaz204appeastusdev001.azurewebsites.net/api/fnvalidacpf?code=flVVO5unGPIxgGBCQLs5rPGzwmN88gd2qwon9fEeyUl_AzFuoU5IWA==
